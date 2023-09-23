@@ -4,3 +4,6 @@
 [submodule "data-jpa-study"]
 	path = data-jpa-study
 	url = https://github.com/ITHwang/data-jpa-study.git
+[submodule "learning-rust"]
+	path = learning-rust
+	url = https://github.com/ITHwang/learning-rust.git
