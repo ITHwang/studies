@@ -1,3 +1,6 @@
 [submodule "spring-rest-api"]
 	path = spring-rest-api
 	url = https://github.com/ITHwang/spring-rest-api.git
+[submodule "data-jpa-study"]
+	path = data-jpa-study
+	url = https://github.com/ITHwang/data-jpa-study.git
