@@ -4,9 +4,6 @@
 [submodule "data-jpa-study"]
 	path = data-jpa-study
 	url = https://github.com/ITHwang/data-jpa-study.git
-[submodule "learning-rust"]
-	path = learning-rust
-	url = https://github.com/ITHwang/learning-rust.git
 [submodule "jQuery-to-vanilla-js"]
 	path = jQuery-to-vanilla-js
 	url = https://github.com/ITHwang/jQuery-to-vanilla-js.git
